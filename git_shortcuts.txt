@@ -1,0 +1,15 @@
+How to clone an existing repo from github
+===========================================
+git clone https://github.com/soumya74/opengl.git
+
+
+How to commit a change to github repo
+=======================================
+git diff
+git add FILENAME
+git commit -m MESSAGE
+git branch /*to check the branch on which I am in*/
+git push origin BRANCH
+
+How to create a new repository of a folder in Windows using bash
+==================================================================
